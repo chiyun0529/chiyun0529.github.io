@@ -1,17 +1,11 @@
 # Site settings
 title: "Chi's Random Thoughts"
-email: jacob@jacobtomlinson.co.uk
 description: "Chi's Blog"
 baseurl: ""
-title_description: "This is where Chi puts his thoughts into words, most about movies"
+title_description: "This is where Chi puts his thoughts into words, mostly about movies"
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
-
-
-# Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
